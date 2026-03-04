@@ -1,12 +1,6 @@
-# SESD_CLI_WORKSHOP 🚀
+# SESD_CLI_WORKSHOP 
 
-A high-performance, object-oriented CLI toolkit built with Node.js and TypeScript. This tool is designed to provide utility, network analysis, and daily productivity tools directly from your terminal.
-
-## 🏛 Architecture
-Built using a modular Command-Pattern architecture:
-- **cli_engine/**: Contains the `Command` base class and `CommandManager` for registration.
-- **commands/**: Individual, decoupled command classes for easy scalability.
-- **index.ts**: Single entry point for the application.
+A high-performance, object-oriented CLI toolkit built with Node.js and TypeScript.
 
 ## 🛠 Setup & Installation
 
@@ -31,7 +25,7 @@ npm link
 sesd-cli --help
 ```
 
-## 📜 Available Commands
+## Available Commands
 
 | Category | Command | Description |
 |----------|---------|-------------|
@@ -46,11 +40,11 @@ sesd-cli --help
 | **Utility** | `passgen` | Secure random password generator |
 | **Utility** | `unit <type> <v>`| Temperature and distance converter |
 
-## 🚀 Examples
+## Examples
 
 **Fetch GitHub Info:**
 ```bash
-sesd-cli github AyushCodes160
+sesd-cli github BOXER78
 ```
 
 **Check Crypto Price:**
