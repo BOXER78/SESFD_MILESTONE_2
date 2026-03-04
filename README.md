@@ -2,7 +2,7 @@
 
 A high-performance, object-oriented CLI toolkit built with Node.js and TypeScript.
 
-## 🛠 Setup & Installation
+## Setup & Installation
 
 ### 1. Prerequisites
 Ensure you have [Node.js](https://nodejs.org/) installed.
